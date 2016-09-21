@@ -1,0 +1,10 @@
+Feed Forward Artificial Neural Network (ANN)
+V1.0
+
+I hope to extend this asset in future and provide more significant documentation 
+but until then if you require any assistance or have any suggestions for improvements, 
+please email me at robert.wells@gandhigames.co.uk 
+and I will get back to you as soon as possible.
+
+I have included a simple test scene that creates an ANN, provides it with random input each time-step and prints the output (see ANNTest script). 
+Not a very useful application but it shows you how the neural network could be setup. 
